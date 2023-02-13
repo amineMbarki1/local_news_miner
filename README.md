@@ -5,7 +5,7 @@ The Server will notify the clients when  new content was scraped and added to th
 
 ### **Technologies:**
   * **News scraper module**: Java / Jsoup
-  * **Backend**: Sprinqg boot and Mysql
+  * **Backend**: Spring boot and Mysql
   * **Frontend**:  React 
 
 ### **Sequence diagram:**
